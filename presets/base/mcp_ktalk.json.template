@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "qmd": {
+      "command": "qmd",
+      "args": ["mcp"]
+    },
+    "ktalk": {
+      "type": "http",
+      "url": "https://naomi.nau.im/api/ktalk/mcp",
+      "headers": {
+        "Authorization": "Bearer <ВАШ КЛЮЧ ИЗ NAOMI>"
+      }
+    }
+  }
+}

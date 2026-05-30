@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Read({{VAULT_PATH}}/**)",
+      "Write({{VAULT_PATH}}/**)",
+      "Edit({{VAULT_PATH}}/**)",
+      "Bash(ls:*)",
+      "Bash(grep:*)",
+      "Bash(wc:*)",
+      "Bash(sort:*)",
+      "Bash(qmd:*)",
+      "mcp__qmd__qmd_search",
+      "mcp__qmd__qmd_deep_search",
+      "mcp__qmd__qmd_get",
+      "mcp__qmd__qmd_multi_get",
+      "mcp__qmd__qmd_status"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cmd=$(cat | jq -r '.tool_input.command // empty'); if echo \"$cmd\" | grep -qE '^rm.*00_CORE'; then echo '{\"decision\": \"block\", \"reason\": \"Нельзя удалять файлы из 00_CORE\"}' >&2; exit 2; fi; exit 0"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,528 @@
+{
+  "timestamp": "2026-05-08T12:57:02.794065",
+  "total_count": 87,
+  "exchanges": [
+    {
+      "name": "ProstovCash",
+      "status": "Работает",
+      "reserves_raw": "$1 802 194 788",
+      "reserves_usd": 1802194788
+    },
+    {
+      "name": "Xchange",
+      "status": "Работает",
+      "reserves_raw": "$1 630 246 016",
+      "reserves_usd": 1630246016
+    },
+    {
+      "name": "Котлета",
+      "status": "Работает",
+      "reserves_raw": "$1 246 199 739",
+      "reserves_usd": 1246199739
+    },
+    {
+      "name": "StoreBucks",
+      "status": "Работает",
+      "reserves_raw": "$1 144 333 819",
+      "reserves_usd": 1144333819
+    },
+    {
+      "name": "ImExchanger",
+      "status": "Работает",
+      "reserves_raw": "$1 117 905 727",
+      "reserves_usd": 1117905727
+    },
+    {
+      "name": "F-Change",
+      "status": "Работает",
+      "reserves_raw": "$1 022 487 642",
+      "reserves_usd": 1022487642
+    },
+    {
+      "name": "24PayBank",
+      "status": "Работает",
+      "reserves_raw": "$952 004 449",
+      "reserves_usd": 952004449
+    },
+    {
+      "name": "Clean-Exchange",
+      "status": "Работает",
+      "reserves_raw": "$470 530 565",
+      "reserves_usd": 470530565
+    },
+    {
+      "name": "Receive-Money",
+      "status": "Работает",
+      "reserves_raw": "$439 911 232",
+      "reserves_usd": 439911232
+    },
+    {
+      "name": "1WM",
+      "status": "Работает",
+      "reserves_raw": "$384 643 033",
+      "reserves_usd": 384643033
+    },
+    {
+      "name": "Альткоин",
+      "status": "Работает",
+      "reserves_raw": "$382 349 533",
+      "reserves_usd": 382349533
+    },
+    {
+      "name": "Best-Obmen",
+      "status": "Работает",
+      "reserves_raw": "$369 180 093",
+      "reserves_usd": 369180093
+    },
+    {
+      "name": "60сек",
+      "status": "Работает",
+      "reserves_raw": "$350 695 605",
+      "reserves_usd": 350695605
+    },
+    {
+      "name": "Nadex",
+      "status": "Работает",
+      "reserves_raw": "$339 853 762",
+      "reserves_usd": 339853762
+    },
+    {
+      "name": "El-Change",
+      "status": "Работает",
+      "reserves_raw": "$310 419 339",
+      "reserves_usd": 310419339
+    },
+    {
+      "name": "OneMoment",
+      "status": "Работает",
+      "reserves_raw": "$297 132 502",
+      "reserves_usd": 297132502
+    },
+    {
+      "name": "Сова",
+      "status": "Работает",
+      "reserves_raw": "$244 685 885",
+      "reserves_usd": 244685885
+    },
+    {
+      "name": "YChanger",
+      "status": "Работает",
+      "reserves_raw": "$241 314 132",
+      "reserves_usd": 241314132
+    },
+    {
+      "name": "БухтаОбмена",
+      "status": "Работает",
+      "reserves_raw": "$204 870 947",
+      "reserves_usd": 204870947
+    },
+    {
+      "name": "Finex24",
+      "status": "Работает",
+      "reserves_raw": "$188 306 655",
+      "reserves_usd": 188306655
+    },
+    {
+      "name": "GetBit",
+      "status": "Работает",
+      "reserves_raw": "$185 759 678",
+      "reserves_usd": 185759678
+    },
+    {
+      "name": "MultiXchange",
+      "status": "Работает",
+      "reserves_raw": "$176 297 896",
+      "reserves_usd": 176297896
+    },
+    {
+      "name": "Метка",
+      "status": "Работает",
+      "reserves_raw": "$157 772 720",
+      "reserves_usd": 157772720
+    },
+    {
+      "name": "Platov",
+      "status": "Работает",
+      "reserves_raw": "$155 860 719",
+      "reserves_usd": 155860719
+    },
+    {
+      "name": "Crypto-Store",
+      "status": "Работает",
+      "reserves_raw": "$142 919 515",
+      "reserves_usd": 142919515
+    },
+    {
+      "name": "NiceObmen",
+      "status": "Работает",
+      "reserves_raw": "$140 861 434",
+      "reserves_usd": 140861434
+    },
+    {
+      "name": "ChangeProject",
+      "status": "Работает",
+      "reserves_raw": "$131 202 132",
+      "reserves_usd": 131202132
+    },
+    {
+      "name": "ClickPay",
+      "status": "Работает",
+      "reserves_raw": "$126 330 044",
+      "reserves_usd": 126330044
+    },
+    {
+      "name": "Крипта",
+      "status": "Работает",
+      "reserves_raw": "$119 250 865",
+      "reserves_usd": 119250865
+    },
+    {
+      "name": "X-Pay",
+      "status": "Работает",
+      "reserves_raw": "$118 908 416",
+      "reserves_usd": 118908416
+    },
+    {
+      "name": "1-Online",
+      "status": "Работает",
+      "reserves_raw": "$111 479 083",
+      "reserves_usd": 111479083
+    },
+    {
+      "name": "NicexChanger",
+      "status": "Работает",
+      "reserves_raw": "$111 232 809",
+      "reserves_usd": 111232809
+    },
+    {
+      "name": "AvanChange",
+      "status": "Работает",
+      "reserves_raw": "$109 350 486",
+      "reserves_usd": 109350486
+    },
+    {
+      "name": "GramBit",
+      "status": "Работает",
+      "reserves_raw": "$105 187 939",
+      "reserves_usd": 105187939
+    },
+    {
+      "name": "NewLine",
+      "status": "Работает",
+      "reserves_raw": "$86 379 018",
+      "reserves_usd": 86379018
+    },
+    {
+      "name": "Pocket-Exchange",
+      "status": "Работает",
+      "reserves_raw": "$83 347 913",
+      "reserves_usd": 83347913
+    },
+    {
+      "name": "FlashObmen",
+      "status": "Работает",
+      "reserves_raw": "$81 123 872",
+      "reserves_usd": 81123872
+    },
+    {
+      "name": "Papa-Change",
+      "status": "Работает",
+      "reserves_raw": "$77 991 825",
+      "reserves_usd": 77991825
+    },
+    {
+      "name": "Обменко",
+      "status": "Работает",
+      "reserves_raw": "$65 114 029",
+      "reserves_usd": 65114029
+    },
+    {
+      "name": "Top-Exchange",
+      "status": "Работает",
+      "reserves_raw": "$61 037 896",
+      "reserves_usd": 61037896
+    },
+    {
+      "name": "FastChange",
+      "status": "Работает",
+      "reserves_raw": "$60 399 943",
+      "reserves_usd": 60399943
+    },
+    {
+      "name": "Касса",
+      "status": "Работает",
+      "reserves_raw": "$58 704 535",
+      "reserves_usd": 58704535
+    },
+    {
+      "name": "MasterChange",
+      "status": "Работает",
+      "reserves_raw": "$47 597 402",
+      "reserves_usd": 47597402
+    },
+    {
+      "name": "I-Obmen",
+      "status": "Работает",
+      "reserves_raw": "$45 703 887",
+      "reserves_usd": 45703887
+    },
+    {
+      "name": "CriptHub",
+      "status": "Работает",
+      "reserves_raw": "$45 010 483",
+      "reserves_usd": 45010483
+    },
+    {
+      "name": "In-To",
+      "status": "Работает",
+      "reserves_raw": "$44 009 168",
+      "reserves_usd": 44009168
+    },
+    {
+      "name": "E-Change",
+      "status": "Работает",
+      "reserves_raw": "$43 852 767",
+      "reserves_usd": 43852767
+    },
+    {
+      "name": "BaksMan",
+      "status": "Работает",
+      "reserves_raw": "$41 351 661",
+      "reserves_usd": 41351661
+    },
+    {
+      "name": "City-Exchange",
+      "status": "Работает",
+      "reserves_raw": "$39 249 293",
+      "reserves_usd": 39249293
+    },
+    {
+      "name": "CoinClick",
+      "status": "Работает",
+      "reserves_raw": "$38 885 787",
+      "reserves_usd": 38885787
+    },
+    {
+      "name": "24BestEx",
+      "status": "Работает",
+      "reserves_raw": "$35 347 674",
+      "reserves_usd": 35347674
+    },
+    {
+      "name": "EpiChange",
+      "status": "Работает",
+      "reserves_raw": "$34 948 462",
+      "reserves_usd": 34948462
+    },
+    {
+      "name": "CoinCat",
+      "status": "Работает",
+      "reserves_raw": "$33 427 497",
+      "reserves_usd": 33427497
+    },
+    {
+      "name": "Transfer24",
+      "status": "Работает",
+      "reserves_raw": "$32 462 218",
+      "reserves_usd": 32462218
+    },
+    {
+      "name": "Шахта",
+      "status": "Работает",
+      "reserves_raw": "$31 199 593",
+      "reserves_usd": 31199593
+    },
+    {
+      "name": "CoinStart",
+      "status": "Работает",
+      "reserves_raw": "$27 747 687",
+      "reserves_usd": 27747687
+    },
+    {
+      "name": "WestChange",
+      "status": "Работает",
+      "reserves_raw": "$27 126 697",
+      "reserves_usd": 27126697
+    },
+    {
+      "name": "ЗеленаяСвеча",
+      "status": "Работает",
+      "reserves_raw": "$24 873 797",
+      "reserves_usd": 24873797
+    },
+    {
+      "name": "Феникс",
+      "status": "Работает",
+      "reserves_raw": "$20 055 862",
+      "reserves_usd": 20055862
+    },
+    {
+      "name": "Ukr-Obmen",
+      "status": "Работает",
+      "reserves_raw": "$19 888 136",
+      "reserves_usd": 19888136
+    },
+    {
+      "name": "CoinShop24",
+      "status": "Работает",
+      "reserves_raw": "$18 935 433",
+      "reserves_usd": 18935433
+    },
+    {
+      "name": "YoChange",
+      "status": "Работает",
+      "reserves_raw": "$18 595 130",
+      "reserves_usd": 18595130
+    },
+    {
+      "name": "CryptoBox",
+      "status": "Работает",
+      "reserves_raw": "$16 875 099",
+      "reserves_usd": 16875099
+    },
+    {
+      "name": "Daeo",
+      "status": "Работает",
+      "reserves_raw": "$15 073 493",
+      "reserves_usd": 15073493
+    },
+    {
+      "name": "JetMonet",
+      "status": "Работает",
+      "reserves_raw": "$14 389 335",
+      "reserves_usd": 14389335
+    },
+    {
+      "name": "Ферма",
+      "status": "Работает",
+      "reserves_raw": "$13 988 472",
+      "reserves_usd": 13988472
+    },
+    {
+      "name": "7Money",
+      "status": "Работает",
+      "reserves_raw": "$12 654 781",
+      "reserves_usd": 12654781
+    },
+    {
+      "name": "Лимончик",
+      "status": "Работает",
+      "reserves_raw": "$9 316 761",
+      "reserves_usd": 9316761
+    },
+    {
+      "name": "CoinDrop",
+      "status": "Работает",
+      "reserves_raw": "$7 812 694",
+      "reserves_usd": 7812694
+    },
+    {
+      "name": "ExHub",
+      "status": "Работает",
+      "reserves_raw": "$7 588 814",
+      "reserves_usd": 7588814
+    },
+    {
+      "name": "Cerber",
+      "status": "Работает",
+      "reserves_raw": "$5 799 004",
+      "reserves_usd": 5799004
+    },
+    {
+      "name": "LasloBit",
+      "status": "Работает",
+      "reserves_raw": "$4 963 868",
+      "reserves_usd": 4963868
+    },
+    {
+      "name": "365Cash",
+      "status": "Работает",
+      "reserves_raw": "$3 810 648",
+      "reserves_usd": 3810648
+    },
+    {
+      "name": "ExLine",
+      "status": "Работает",
+      "reserves_raw": "$3 704 158",
+      "reserves_usd": 3704158
+    },
+    {
+      "name": "HotExchange",
+      "status": "Работает",
+      "reserves_raw": "$3 533 842",
+      "reserves_usd": 3533842
+    },
+    {
+      "name": "CryptoHome",
+      "status": "Работает",
+      "reserves_raw": "$1 612 044",
+      "reserves_usd": 1612044
+    },
+    {
+      "name": "КупиБит",
+      "status": "Работает",
+      "reserves_raw": "$1 560 019",
+      "reserves_usd": 1560019
+    },
+    {
+      "name": "Sunduk",
+      "status": "Работает",
+      "reserves_raw": "$1 393 172",
+      "reserves_usd": 1393172
+    },
+    {
+      "name": "SafelyChange",
+      "status": "Работает",
+      "reserves_raw": "$1 201 737",
+      "reserves_usd": 1201737
+    },
+    {
+      "name": "Рекс",
+      "status": "Работает",
+      "reserves_raw": "$670 828",
+      "reserves_usd": 670828
+    },
+    {
+      "name": "D-Obmen",
+      "status": "Работает",
+      "reserves_raw": "$503 036",
+      "reserves_usd": 503036
+    },
+    {
+      "name": "Муха",
+      "status": "Работает",
+      "reserves_raw": "$471 571",
+      "reserves_usd": 471571
+    },
+    {
+      "name": "BTCSale",
+      "status": "Работает",
+      "reserves_raw": "$277 595",
+      "reserves_usd": 277595
+    },
+    {
+      "name": "VIPchanger",
+      "status": "Работает",
+      "reserves_raw": "$178 250",
+      "reserves_usd": 178250
+    },
+    {
+      "name": "NixExchange",
+      "status": "Работает",
+      "reserves_raw": "$92 778",
+      "reserves_usd": 92778
+    },
+    {
+      "name": "BetaTransfer",
+      "status": "Работает",
+      "reserves_raw": "$27 198",
+      "reserves_usd": 27198
+    },
+    {
+      "name": "AlfaBit",
+      "status": "Отключен",
+      "reserves_raw": "—",
+      "reserves_usd": 0
+    }
+  ]
+}
