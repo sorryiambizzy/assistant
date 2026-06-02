@@ -128,4 +128,4 @@ tags:
 
 - Презентация: [30_PROJECTS/active/ncc/meeting-01-04-2026.md](../ncc/meeting-01-04-2026.md)
 - Транскрипт: recording_id `EkOuEovKNkDOAHGXGEEB`
-- Проект: [30_PROJECTS/active/ncc/ncc.md](../ncc/ncc.md)
+- Проект: [30_PROJECTS/active/ncc/sdk-2/sdk-2.md](../sdk-2/sdk-2.md)

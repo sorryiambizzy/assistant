@@ -383,9 +383,9 @@ owner: "[[10_PEOPLE/epodkin/epodkin|Подкин Евгений]]"
 
 ## СВЯЗИ С ДРУГИМИ ИССЛЕДОВАНИЯМИ
 
-- [[30_PROJECTS/active/ecosystem/discovery/field-service-jobs.md|FSM Jobs]] — сравнить пересечения и различия
-- [[30_PROJECTS/active/ecosystem/discovery/itam-jobs.md|ITAM Jobs]] — сравнить пересечения и различия
-- [[30_PROJECTS/active/ecosystem/jobs-to-be-done.md|Базовый JTBD экосистемы]] — общие сценарии
+- [[30_PROJECTS/active/SMRM/ecosystem/discovery/field-service-jobs.md|FSM Jobs]] — сравнить пересечения и различия
+- [[30_PROJECTS/active/SMRM/ecosystem/discovery/itam-jobs.md|ITAM Jobs]] — сравнить пересечения и различия
+- [[30_PROJECTS/active/SMRM/ecosystem/jobs-to-be-done.md|Базовый JTBD экосистемы]] — общие сценарии
 
 
 ---

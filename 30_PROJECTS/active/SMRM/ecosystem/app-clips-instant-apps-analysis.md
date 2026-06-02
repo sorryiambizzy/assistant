@@ -13,9 +13,9 @@ status: final
 > **Вывод:** Технологии App Clips и Instant Apps **не подходят** для enterprise Service Desk сценариев с многошаговыми процессами и продолжительным доступом.
 
 **Связанные документы:**
-- [[30_PROJECTS/active/ecosystem/jobs-to-be-done.md|Jobs To Be Done]]
-- [[30_PROJECTS/active/ecosystem/pwa-limitations-analysis.md|Анализ ограничений PWA]]
-- [[30_PROJECTS/active/ecosystem/pwa-implementation-guide.md|PWA Implementation Guide]]
+- [[30_PROJECTS/active/SMRM/ecosystem/jobs-to-be-done.md|Jobs To Be Done]]
+- [[30_PROJECTS/active/SMRM/ecosystem/pwa-limitations-analysis.md|Анализ ограничений PWA]]
+- [[30_PROJECTS/active/SMRM/ecosystem/pwa-implementation-guide.md|PWA Implementation Guide]]
 
 ---
 
@@ -123,5 +123,5 @@ App Clip с SSO → Переключение между приложениями
 **Автор:** [[10_PEOPLE/epodkin/epodkin|Подкин Евгений]]
 
 **Связанные документы:**
-- [[30_PROJECTS/active/ecosystem/jobs-to-be-done.md|Jobs To Be Done]]
-- [[30_PROJECTS/active/ecosystem/pwa-limitations-analysis.md|Анализ ограничений PWA]]
+- [[30_PROJECTS/active/SMRM/ecosystem/jobs-to-be-done.md|Jobs To Be Done]]
+- [[30_PROJECTS/active/SMRM/ecosystem/pwa-limitations-analysis.md|Анализ ограничений PWA]]

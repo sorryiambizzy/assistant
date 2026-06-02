@@ -13,8 +13,12 @@ status: template
 
 | Проект | Директория | Описание |
 |--------|------------|----------|
-| **SMP Mobile** | `[[30_PROJECTS/active/smp-mobile\|SMP Mobile]]` | Активности по проекту SMP Mobile |
-| **Chat SDK** | `[[30_PROJECTS/active/ncc\|NCC (Chat SDK)]]` | Активности по проекту NCC (Chat SDK) |
+| **SMRM** | `[[30_PROJECTS/active/SMRM/smrm\|SMRM]]` | Зонтик: SMP Mobile + экосистема |
+| **SMP Mobile** | `[[30_PROJECTS/active/SMRM/smp-mobile/smp-mobile\|SMP Mobile]]` | Активности по проекту SMP Mobile |
+| **Экосистема** | `[[30_PROJECTS/active/SMRM/ecosystem/ecosystem\|Экосистема]]` | Внедрение мобильных технологий в экосистему Naumen |
+| **NCC** | `[[30_PROJECTS/active/ncc/ncc\|NCC]]` | Зонтик NCC: Chat SDK 2.0 + VoIP звонилка |
+| **NCC Chat SDK 2.0** | `[[30_PROJECTS/active/ncc/sdk-2/sdk-2\|Chat SDK 2.0]]` | Переписывание Chat SDK (Магнит) |
+| **NCC VoIP звонилка** | `[[30_PROJECTS/active/ncc/voip/voip\|VoIP звонилка]]` | Встроенная в приложение звонилка на WebRTC |
 | **Сервис моб.технологий** | — | Мобильные приложения, не относящиеся к SMP Mobile или Chat SDK |
 
 ## Что продвинул в проекте

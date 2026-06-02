@@ -38,7 +38,7 @@ tags:
 
 | Цель | Срок | Статус |
 |------|------|--------|
-| [[30_PROJECTS/active/ecosystem/ecosystem|Экосистема]]: Jobs to be Done по мобильным технологиям | 31.03.2026 | 🔄 |
+| [[30_PROJECTS/active/SMRM/ecosystem/ecosystem|Экосистема]]: Jobs to be Done по мобильным технологиям | 31.03.2026 | 🔄 |
 
 ---
 

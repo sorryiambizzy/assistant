@@ -13,8 +13,8 @@ status: draft
 > **Цель:** Определить задачи из JTBD, которые не могут быть полноценно решены через Progressive Web App
 
 **Связанные документы:**
-- [[30_PROJECTS/active/ecosystem/pwa-implementation-guide.md|PWA Implementation Guide]] — технические примеры кода
-- [[30_PROJECTS/active/ecosystem/jobs-to-be-done.md|Jobs To Be Done]]
+- [[30_PROJECTS/active/SMRM/ecosystem/pwa-implementation-guide.md|PWA Implementation Guide]] — технические примеры кода
+- [[30_PROJECTS/active/SMRM/ecosystem/jobs-to-be-done.md|Jobs To Be Done]]
 
 ---
 
@@ -82,7 +82,7 @@ PWA:
 - Нет гарантии выполнения Background Sync (iOS не поддерживает)
 - При очистке кеша браузера - данные теряются
 
-📖 **Примеры реализации:** [[30_PROJECTS/active/ecosystem/pwa-implementation-guide.md#кеширование-списков-и-карточек|PWA Implementation Guide: Кеширование]]
+📖 **Примеры реализации:** [[30_PROJECTS/active/SMRM/ecosystem/pwa-implementation-guide.md#кеширование-списков-и-карточек|PWA Implementation Guide: Кеширование]]
 
 ---
 
@@ -266,7 +266,7 @@ iOS Нативное:
 | 3 | Закэшировать настройки динамических форм? | ✅ **Да** | IndexedDB (метаданные форм) |
 | 4 | Заполнить заявку со справочниками (сотрудники, оборудование)? | ✅ **Да** | IndexedDB (справочники кешируются) |
 
-📖 **Примеры реализации:** [[30_PROJECTS/active/ecosystem/pwa-implementation-guide.md#кеширование-списков-и-карточек|PWA Implementation Guide]]
+📖 **Примеры реализации:** [[30_PROJECTS/active/SMRM/ecosystem/pwa-implementation-guide.md#кеширование-списков-и-карточек|PWA Implementation Guide]]
 
 ---
 
@@ -403,7 +403,7 @@ iOS Нативное:
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
-📖 **Примеры реализации:** [[30_PROJECTS/active/ecosystem/pwa-implementation-guide.md#механизм-очереди-синхронизации|PWA Implementation Guide]]
+📖 **Примеры реализации:** [[30_PROJECTS/active/SMRM/ecosystem/pwa-implementation-guide.md#механизм-очереди-синхронизации|PWA Implementation Guide]]
 
 ---
 
@@ -449,7 +449,7 @@ iOS Нативное:
 | **Видео** | ⚠️ Ограниченно | Cache API | Большой размер |
 | **Карты (тайлы)** | ✅ Да | Cache API | Ограничить область |
 
-📖 **Примеры реализации:** [[30_PROJECTS/active/ecosystem/pwa-implementation-guide.md#предварительное-кеширование|PWA Implementation Guide]]
+📖 **Примеры реализации:** [[30_PROJECTS/active/SMRM/ecosystem/pwa-implementation-guide.md#предварительное-кеширование|PWA Implementation Guide]]
 
 ---
 
@@ -738,5 +738,5 @@ iOS Нативное:
 **Автор:** [[10_PEOPLE/epodkin/epodkin|Подкин Евгений]]
 
 **Связанные документы:**
-- [[30_PROJECTS/active/ecosystem/pwa-implementation-guide.md|PWA Implementation Guide]] — технические примеры кода
-- [[30_PROJECTS/active/ecosystem/jobs-to-be-done.md|Jobs To Be Done]]
+- [[30_PROJECTS/active/SMRM/ecosystem/pwa-implementation-guide.md|PWA Implementation Guide]] — технические примеры кода
+- [[30_PROJECTS/active/SMRM/ecosystem/jobs-to-be-done.md|Jobs To Be Done]]

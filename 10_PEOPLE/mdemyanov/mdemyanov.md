@@ -87,9 +87,9 @@ SORT status ASC
 
 ### Активные проекты (кураторство)
 
-- [[30_PROJECTS/active/ncc/ncc.md|NCC]] — Chat SDK 2.0
-- [[30_PROJECTS/active/smp-mobile/smp-mobile.md|SMP Mobile]] — Стабилизация
-- [[30_PROJECTS/active/ecosystem/ecosystem.md|Экосистема]] — Внедрение мобильных технологий
+- [[30_PROJECTS/active/ncc/ncc.md|NCC]] — зонтик (Chat SDK 2.0 + VoIP звонилка)
+- [[30_PROJECTS/active/SMRM/smp-mobile/smp-mobile.md|SMP Mobile]] — Стабилизация
+- [[30_PROJECTS/active/SMRM/ecosystem/ecosystem.md|Экосистема]] — Внедрение мобильных технологий
 - [[30_PROJECTS/active/ai-analyst-agent/ai-analyst-agent.md|ИИ-агент для аналитиков]] — Повышение эффективности
 
 ---

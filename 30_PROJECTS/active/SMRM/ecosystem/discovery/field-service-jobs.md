@@ -411,8 +411,8 @@ owner: "[[10_PEOPLE/epodkin/epodkin|Подкин Евгений]]"
 
 ## СВЯЗИ С ДРУГИМИ ИССЛЕДОВАНИЯМИ
 
-- [[30_PROJECTS/active/ecosystem/maintenance-repair-jobs.md|ТОиР Jobs]] — сравнить пересечения и различия
-- [[30_PROJECTS/active/ecosystem/jobs-to-be-done.md|Базовый JTBD экосистемы]] — общие сценарии
+- [[30_PROJECTS/active/SMRM/ecosystem/maintenance-repair-jobs.md|ТОиР Jobs]] — сравнить пересечения и различия
+- [[30_PROJECTS/active/SMRM/ecosystem/jobs-to-be-done.md|Базовый JTBD экосистемы]] — общие сценарии
 
 ---
 
