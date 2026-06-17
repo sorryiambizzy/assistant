@@ -50,7 +50,7 @@ tags: [крипто, crm, smrm, product-analysis]
 ## Связанные документы
 
 ### Research
-- [[research/cryptocurrency-exchanges-overview.md|Обзор рынка]]
+- [[market-analysis-report.md|Сводный анализ рынка]]
 - [[research/PremiumExchanger.md|Premium Exchanger]]
 - [[research/Юнит-экономика.md|Юнит-экономика]]
 
