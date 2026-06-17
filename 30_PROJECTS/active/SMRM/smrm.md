@@ -31,6 +31,7 @@ tags:
 |--------|------|--------|
 | [[30_PROJECTS/active/SMRM/smp-mobile/smp-mobile\|SMP Mobile]] | Перевести SMP Mobile в режим поддержки | active |
 | [[30_PROJECTS/active/SMRM/ecosystem/ecosystem\|Экосистема]] | Внедрить мобильные технологии в продуктовую экосистему Naumen | active |
+| [[30_PROJECTS/active/SMRM/multichannel/multichannel\|Multichannel]] | Демка-пилот мультиканальности для проекта экосистемы | active |
 
 ---
 
